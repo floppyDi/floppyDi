@@ -27,7 +27,7 @@
 
 I am a UX/UI designer from Belarus. :octopus:
 
-- :telescope: I study at BGUIR, learn psychology, design, project management and some programming languages.
+- :telescope: I study at BSUIR, learn psychology, design, project management and some programming languages.
 
 - :zap: Have experience in the field of game design, project and team management, frontend development.
 
