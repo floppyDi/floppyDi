@@ -59,3 +59,18 @@ I am a UX/UI designer from Belarus. :octopus:
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ IDEA"  alt="IntelliJ IDEA" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm"  alt="PyCharm" width="40" height="40"/>&nbsp;
 </div>
+
+--- 
+
+:fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=floppyDi)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=floppyDi)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+
+:writing_hand: Blog Posts :
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
